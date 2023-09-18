@@ -15,6 +15,7 @@ After Deploying on Remix IDE, viewing all Public State Variables
 ![op2](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/e776dbdf-fabe-4338-a26a-6e414616a373)
 
 For Example, lets think three participants are participating in the lottery
+
 Participant - 1 - Entering with an Entry Fee of 10 Wei
 ![op3](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/95db0197-1b30-4f44-8fd8-fd63f462f58d)
 
