@@ -8,28 +8,28 @@ randomness, and access control, making it suitable for testing on the Sepolia te
 # OUTPUT
 
 # DEPLOYING LOTTERY SMART CONTRACT ON REMIX IDE
-Before Deploying on Remix IDE:
+Before Deploying on Remix IDE
 ![op1](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/487c16fc-03b3-4f91-ae24-a2f4dc09bbc1)
 
-After Deploying on Remix IDE, viewing all Public State Variables:
+After Deploying on Remix IDE, viewing all Public State Variables
 ![op2](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/e776dbdf-fabe-4338-a26a-6e414616a373)
 
-Participant - 1 - Entering with an Entry Fee of 10 Wei:
+Participant - 1 - Entering with an Entry Fee of 10 Wei
 ![op3](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/95db0197-1b30-4f44-8fd8-fd63f462f58d)
 
-Checking Updated Balance with 10 wei and Participant - 1 Account Address in Players Array[0]:
+Checking Updated Balance with 10 wei and Participant - 1 Account Address in Players Array[0]
 ![op4](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/18394b4a-acf6-4380-8249-42ed674365a9)
 
-Participant - 2 - Entering with an Entry Fee of 10 Wei:
+Participant - 2 - Entering with an Entry Fee of 10 Wei
 ![op5](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/439f1659-1b71-4771-ba27-5fb110a33bae)
 
-Checking Updated Balance with 20 wei and Participant - 2 Account Address in Players Array[1]:
+Checking Updated Balance with 20 wei and Participant - 2 Account Address in Players Array[1]
 ![op6](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/a075d350-8605-4646-831d-736827aaf406)
 
-Participant - 3 - Entering with an Entry Fee of 10 Wei:
+Participant - 3 - Entering with an Entry Fee of 10 Wei
 ![op7](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/a11c7984-5ad4-4ea3-8e83-b4ff9dff7671)
 
-Checking Updated Balance with 30 wei and Participant - 3 Account Address in Players Array[2]:
+Checking Updated Balance with 30 wei and Participant - 3 Account Address in Players Array[2]
 ![op8](https://github.com/Neeraja-Kallamadi/Blockchain_Solidity_Lottery_Smart_Contract_Sepolia_Testnet_Metamask_Wallet/assets/110168775/4f3f8e93-4707-4f89-a238-64dab7acec48)
 
 Switching to the Contract Owners Account Address to Check Total Balance (by accessing "getBalance()" function) and to Pick the Winner (using "pickWinner()" function)
